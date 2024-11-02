@@ -26,4 +26,11 @@ Plant Management System is a console-based application developed in C++ designed
 3- Adjust the sqlite3.h path in the code to match your environment, if necessary.<br>
 <b>Usage</b><br>
 1- Run the program from your terminal or IDE.<br>
-2- Use the provided menu to add, update, view, delete, or search plant records.
+2- Use the provided menu to add, update, view, delete, or search plant records.<br><br>
+# Team Members
+This project created by :<br>
+•<b> Rawan Arby</b><br>
+•<b> Basmala Mohammed</b><br>
+•<b> Shahd Ashraf</b><br>
+•<b> Shahd Ghandi</b>
+
