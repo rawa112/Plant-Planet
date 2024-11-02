@@ -1,2 +1,3 @@
 # Plant-Planet
-Plant Management System
+# Plant Management System
+Plant Management System is a console-based application developed in C++ designed to streamline the process of managing plant records. The system allows users to perform various operations such as adding, viewing, and deleting records of different plant species. Utilizing Object-Oriented Programming (OOP) principles, the application effectively organizes code and models real-world entities, ensuring scalability and maintainability. With a lightweight SQLite database, it provides efficient storage and retrieval of data, making it an ideal solution for anyone interested in gardening or caring for plants.
